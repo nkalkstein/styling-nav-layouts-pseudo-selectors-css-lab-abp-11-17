@@ -63,3 +63,32 @@ footer{
   padding-top: 20px;
   color: #CCC;
 }
+
+header a:hover {
+  text-decoration: underline;
+  color: #0056b3;
+}
+
+div.questions h4 {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+div.questions p {
+  margin-top: 30px;
+}
+
+ div.questions a.btn {
+   border-radius: 5px;
+   color: #FFF;
+   background-color: #007bff;
+   border-color; #007bff;
+   text-decoration: none;
+   padding: 18px;
+   font-size: 20px;
+ }
+
+ div.questions a:hover {
+   background-color: #0069d9;
+   border-color: #0069d9;
+ }
