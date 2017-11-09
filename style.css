@@ -69,6 +69,10 @@ nav a:hover {
   color: #0056b3;
 }
 
+h3#header a:hover {
+  text-decoration: underline;
+}
+
 div.questions h4 {
   font-size: 30px;
   margin-bottom: 10px;
